@@ -92,4 +92,5 @@ public class RelatoriosService {
 		list.forEach(f -> System.out.println("Funcionário: id: " + f.getId() 
 		+ " | nome: " + f.getNome() + " | salario:" + f.getSalario()));
 	}
+
 }
